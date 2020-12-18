@@ -1,0 +1,51 @@
+
+background:BLUE;
+           }
+header h1{
+background-color: red;
+text-align:center;
+font-size:2.3em;
+}
+nav {
+visibility:visibility;
+text-aling:center;
+margin-center:5px;
+padding:10px;
+background-color:GREEN;
+clear:left;
+float:left;
+border-width: 10px thin medium thick;
+border-style:solid dotted double dashed;
+color:black;
+width:100%;
+}
+footer p{
+overflow:auto;
+border-width: 10px thin medium thick;
+padding:15px;
+margin:20px;
+border-style:solid double;
+background:GREEN;
+color:black;
+width:100%;
+}
+#destacada{ 
+width:200px;
+height:200px;
+long:100px
+background:GREEN;
+padding:15px;
+image:10px;
+display:inline;
+border-width: 10px thin medium thick;
+border-style:solid dotted double;
+color:GREEN;
+
+}
+
+}
+.menu li{
+display:inline;
+color:purple;
+font-size:2.3em;
+}
